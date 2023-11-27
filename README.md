@@ -23,7 +23,7 @@
 - **Exit App**: 
   - To exit, type '9' and press `Enter` or click 'Exit'.
   - The app closes, saving all progress.
-- **Resize Window**: The window is resizable for your convenience.
+- **Resize Window**: The window is resizable for your convenience. Images get cut off if the window is too smol, you might want to tinker with this. 
 
 ## Input and Output Processing
 - **Input**: Labels are inputted via a text field. '1' and '9' are special inputs for skipping and exiting.

@@ -22,7 +22,7 @@ class LabelingApp:
         self.frame.pack()
 
         # Image display area with a fixed size
-        self.image_label = tk.Label(self.frame, width=800, height=600)
+        self.image_label = tk.Label(self.frame)
         self.image_label.pack()
 
         self.label_entry = tk.Entry(self.frame)
