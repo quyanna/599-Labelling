@@ -87,6 +87,7 @@ class LabelingApp:
     def exit_app(self, event=None):
         print("Exiting labeling process...")
         self.root.destroy()
+        self.root.quit()
 
 
 # Paths
