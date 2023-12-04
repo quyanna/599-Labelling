@@ -92,7 +92,7 @@ class LabelingApp:
 
 # Paths
 batch_folder = 'D:\\Data\\VFR_real_test'  #  CHANGE TO YOUR BATCH FOLDER
-csv_file = 'D:\\Data\\VFR_real_test\\real_test.csv'       # CHANGE TO WHERE YOU WANT TO SAVE THE CSV FILE
+csv_file = 'C:\\Users\\Quyanna\\Desktop\\CPSC599\\Labelling\\599-Labelling\\real_test.csv'       # CHANGE TO WHERE YOU WANT TO SAVE THE CSV FILE
 
 # Additional path for invalid images (ones skipped by the user) - CHANGE TO WHERE U WANT TO SAVE INVALID IMAGES
 invalid_images_folder = 'D:\\Data\\VFR_real_test\\invalid_images'
